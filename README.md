@@ -1,1 +1,3 @@
 # restaurant-GraphQL
+
+MIT Assignment
